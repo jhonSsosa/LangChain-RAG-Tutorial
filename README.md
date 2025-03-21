@@ -20,7 +20,7 @@ El proyecto implementa una arquitectura RAG utilizando embeddings para indexar y
 1. Clonar el repositorio
    ```
    git clone https://github.com/jhonSsosa/LangChain-RAG-Tutorial.git
-   cd rag-project
+   cd LangChain-RAG-Tutorial-main
    ```
 
 2. Crear un entorno virtual y activarlo
@@ -49,3 +49,4 @@ Luego, realiza consultas usando:
 ```
 python query_rag.py
 ```
+
