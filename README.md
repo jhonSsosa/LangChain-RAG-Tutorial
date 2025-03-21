@@ -50,3 +50,8 @@ Luego, realiza consultas usando:
 python query_rag.py
 ```
 
+5. Evidencia de uso:
+```
+![image](https://github.com/user-attachments/assets/3f36573f-daaa-4a96-9451-0f5811f68b74)
+
+```
