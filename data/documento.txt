@@ -1,0 +1,3 @@
+Python es un lenguaje de programación interpretado, de alto nivel y con una sintaxis clara.  
+Es ampliamente usado en desarrollo web, ciencia de datos e inteligencia artificial.  
+Las bibliotecas más populares incluyen NumPy, Pandas, Scikit-learn y TensorFlow.  
